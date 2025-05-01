@@ -2,9 +2,9 @@
 Proyecto para la clase de compiladores
 
 Integrantes del equipo:
-Chavez Madrid Ismael Angel
-Hernández Jiménez Efrén Antonio
-Padilla Cazares Jesus Alejandro
+- Chavez Madrid Ismael Angel
+- Hernández Jiménez Efrén Antonio
+- Padilla Cazares Jesus Alejandro
 
 
 ## Descripción
