@@ -1,6 +1,11 @@
 # proyecto_compiladores_2025-2
 Proyecto para la clase de compiladores
 
+Integrantes del equipo:
+Chavez Madrid Ismael Angel
+Hernández Jiménez Efrén Antonio
+Padilla Cazares Jesus Alejandro
+
 
 ## Descripción
 
